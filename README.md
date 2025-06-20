@@ -1,7 +1,5 @@
 # 🌐 Personal Portfolio Website
 
-![Portfolio Banner](https://portfolio-guduru-mounikas-projects.vercel.app/assets/hero-bg.png)
-
 Welcome to my personal portfolio website built with **HTML**, **CSS**, and **JavaScript**. This website serves as a digital profile showcasing my skills, experience, and web development projects.
 
 > 🔗 **Live Demo**: [portfolio-guduru-mounikas-projects.vercel.app](https://portfolio-guduru-mounikas-projects.vercel.app/)  
